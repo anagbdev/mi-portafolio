@@ -23,7 +23,7 @@ This website was created to showcase my work and connect with other professional
 Feel free to reach out if you have any questions or would like to collaborate:
 - **Email**: anaguzmanb97@gmail.com
 - **GitHub**: [github.com/anagbdev](https://github.com/anagbdev)
-- **LinkedIn**: [linkedin.com/in/anaguzba](www.linkedin.com/in/anaguzba)
+- **LinkedIn**: [linkedin.com/in/anaguzba](https://linkedin.com/in/anaguzba)
 
 ---
 
