@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! 🌟 Here you’ll find information about my projects, skills, and experience as a developer.
 
 This website was created to showcase my work and connect with other professionals in the industry.  
-➡️ **[Check out my live portfolio here](https://anagbdev.io/my-portfolio)**
+➡️ **[Check out my live portfolio here](https://anagbdev.github.io/portfolio)**
 
 ## 🌟 Portfolio Features
 - Responsive design for mobile and desktop devices.
